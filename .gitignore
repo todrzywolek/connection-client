@@ -1,0 +1,46 @@
+# compiled output
+**/dist
+**/tmp
+**/out-tsc
+**/out
+
+# IDEs and editors
+**/.project
+**/.classpath
+**/.c9/
+**/*.launch
+**/.settings/
+**/*.sublime-workspace
+**/target
+**/*iml
+**/.idea
+
+# IDE - VSCode
+**/!.vscode/settings.json
+**/!.vscode/tasks.json
+**/!.vscode/launch.json
+**/!.vscode/extensions.json
+
+# misc
+**/.sass-cache
+**/connect.lock
+**/libpeerconnection.log
+**/npm-debug.log
+**/testem.log
+**/typings
+
+# System Files
+**/.DS_Store
+**/Thumbs.db
+
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
